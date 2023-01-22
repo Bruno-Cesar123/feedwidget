@@ -23,6 +23,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [SQLITE](https://www.sqlite.org/index.html)
 - [JEST](https://jestjs.io/pt-BR/)
 
+
 ## 🎲 Rodando o Projeto
 
 ```bash
@@ -50,6 +51,7 @@ $ npm run dev ou yarn dev
 
 ```
 - [front-end](https://github.com/Bruno-Cesar123/feedwidget_web)
+
 
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](license) para mais detalhes.
